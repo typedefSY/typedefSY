@@ -24,26 +24,3 @@ Now a PG student at **University College London**. 🎓
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/typedefSY/typedefSY/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/typedefSY/typedefSY/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<!--START_SECTION:waka-->
-<!-- **🐱 My GitHub Data** 
-
-> 🏆 635 Contributions in the Year 2024
- > 
-> 📦 1.4 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 76 Public Repositories 
- > 
-> 🔑 29 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    15 commits     ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.15% 
-🌆 Daytime    261 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.34% 
-🌃 Evening    243 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.76% 
-🌙 Night      180 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.75% -->
-
-<!--END_SECTION:waka-->
