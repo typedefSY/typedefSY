@@ -26,7 +26,7 @@ Now a PG student at **University College London**. 🎓
 ![github contribution grid snake animation](https://raw.githubusercontent.com/typedefSY/typedefSY/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+<!-- **🐱 My GitHub Data** 
 
 > 🏆 635 Contributions in the Year 2024
  > 
@@ -44,4 +44,6 @@ Now a PG student at **University College London**. 🎓
 🌞 Morning    15 commits     ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.15% 
 🌆 Daytime    261 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.34% 
 🌃 Evening    243 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.76% 
-🌙 Night      180 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.75%
+🌙 Night      180 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.75% -->
+
+<!--END_SECTION:waka-->
