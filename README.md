@@ -14,9 +14,9 @@
 
 **A Student.**
 
-Recently graduated from **University of New South Wales** with a UG degree in Computer Science. 🎉
+Recently graduated from **University of New South Wales** 🇦🇺 with a UG degree in Computer Science. 🎉
 
-Now a PG student at **University College London**. 🎓
+Now a PG student at **University College London** 🇬🇧, major in Robotics & AI. 🎓
 
 <hr>
 
